@@ -30,3 +30,10 @@ This project is my second workshop, to learn about implementation, development i
 ```
 npm start // to start application and open a new tab in the browser
 ```
+
+## LOG 
+```
+    - 05/07/2017: Started
+    - 06/07/2017: Development 
+
+```
